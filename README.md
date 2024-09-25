@@ -4,12 +4,12 @@
 
 - Penggunaan
 ```shell
-bz63 <b64/b32> <-e/-d> <filename> [-o outputfile]
+bz63.exe <b64/b32> <-e/-d> <filename> [-o outputfile]
 ```
 
 - Contoh
 ```shell
-bz63 b64 -e string.txt -o encoded.txt
+bz63.exe b64 -e string.txt -o encoded.txt
 ```
 
 - Dilengkapi password :
