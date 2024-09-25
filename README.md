@@ -1,6 +1,7 @@
 <h1>Jangan lupa beri bintang like 🌟 untuk support.</h1>
 
-# Tool for windows 7 or later.
+# Mengenai Tool 
+- Sokong Windows 7 dan keatas
 - Encode Decode base64 base32
 - Memang boleh 7 megabyte jer saiz dia
 - tool inspirasi dari certutil windows
