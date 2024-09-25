@@ -1,4 +1,5 @@
 # Tool for windows 7 or later.
+- Encode Decode base64 base32
 - Memang boleh 7 megabyte jer saiz dia
 - tool inspirasi dari certutil windows
 
