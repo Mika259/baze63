@@ -1,13 +1,14 @@
 # Tool for windows 7 or later.
 - Memang boleh 7 megabyte jer saiz dia
+- tool inspirasi dari certutil windows
 
 - Penggunaan
-```console
+```shell
 bz63 <b64/b32> <-e/-d> <filename> [-o outputfile]
 ```
 
 - Contoh
-```console
+```shell
 bz63 b64 -e string.txt -o encoded.txt
 ```
 
