@@ -16,3 +16,6 @@ bz63.exe b64 -e string.txt -o encoded.txt
 ```console
 123priv@iot88
 ```
+
+
+- bukan semua benda kena suap
