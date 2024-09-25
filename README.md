@@ -4,6 +4,7 @@
 - Extrak zip dengan password
 - Buka command prompt dengan Current Directory sama dengan tool
 - Boleh baca dalam README.md
+- Anda tidak perlu memasang aplikasi tambahan untuk tool ini.
 
 # Mengenai Tool 
 - Sokong Windows 7 dan keatas
